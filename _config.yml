@@ -1,7 +1,8 @@
 # Site Settings
 title: Mere Blog Theme
 tagline: Mere Blog Theme
-email: your-email@domain.com
+theme: mere-blog-theme
+email: 2430661849@qq.com
 description: >
   The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
 baseurl: "/mere-blog-theme"
